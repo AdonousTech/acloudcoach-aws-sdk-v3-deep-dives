@@ -1,0 +1,11 @@
+{
+  "name": "sdk-deep-dives",
+  "version": "1.0.0",
+  "description": "Deep dive projects and examples on AWS SDK V3 in Node",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "ACloudCoach (Adonous Tech)",
+  "license": "MIT"
+}
